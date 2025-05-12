@@ -14,7 +14,7 @@ Este é um projeto Java que permite converter valores entre diferentes moedas ut
 
 ## 🧰 Tecnologias Utilizadas
 
-- **Java 17**: Linguagem de programação principal
+- **Java 23**: Linguagem de programação principal
 - **Scanner**: Para entrada de dados do usuário
 - **Tratamento de Exceções**: Para garantir robustez na entrada de dados
 
